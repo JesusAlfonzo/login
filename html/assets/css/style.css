@@ -1,0 +1,49 @@
+* {
+    font-family: 'JetBrains Mono';
+    font-size: 25px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    background-color: #941C2F;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.invalid {
+    border: solid 1px red;
+    box-shadow: 0 0 10px red;
+}
+
+.error {
+    color: rgb(244, 37, 37);
+    display: block;
+}
+
+body {
+    background-color: #03191E;
+}
+
+form {
+    border-style: solid;
+    border-radius: 8px;
+    padding: 25px;
+    margin-left: 26%;
+    margin-right: 22%;
+    text-align: center;
+    display: flexbox;
+    justify-content: center;
+    background-color: #59F8E8;
+    
+}
+
+button {
+    border-radius: 10px;
+    background-color:#D7B377 ;
+}
+
+input {
+    border-radius: 5px;
+}
